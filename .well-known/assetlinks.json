@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.nocturne.player",
+      "sha256_cert_fingerprints": ["9E:BC:68:0E:0D:0B:D4:6D:74:EB:00:6F:AF:33:D3:B2:35:7F:9F:95:3C:45:2C:AB:EF:77:23:E3:07:BC:CF:C9"]
+    }
+  }
+]
